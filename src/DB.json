@@ -1,0 +1,130 @@
+{
+  "thriller": [
+    {
+      "Name": "A Murder Is Announced",
+      "Author": "Agatha Christie",
+      "Rating": "5/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348508635l/16298.jpg"
+    },
+    {
+      "Name": "Murder on the Orient Express",
+      "Author": "Agatha Christie",
+      "Rating": "5/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486131451l/853510._SY475_.jpg"
+    },
+    {
+      "Name": "And Then There Were None",
+      "Author": "Agatha Christie",
+      "Rating": "5/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638425885l/16299._SY475_.jpg"
+    },
+    {
+      "Name": "The Guest List",
+      "Author": "Lucy Foley",
+      "Rating": "3/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580194251l/51933429.jpg"
+    },
+    {
+      "Name": "The Silent Patient",
+      "Author": "Alex Michaelides",
+      "Rating": "5/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582759969l/40097951._SX318_.jpg"
+    }
+  ],
+  "historical-fiction": [
+    {
+      "Name": "The Boy in Striped Pajamas",
+      "Author": "John Boyne",
+      "Rating": "5/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366228171l/39999.jpg"
+    },
+    {
+      "Name": "The Tattooist of Auschwitz",
+      "Author": "Heather Morris",
+      "Rating": "4/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525962117l/38359036.jpg"
+    },
+    {
+      "Name": "The Nightingale",
+      "Author": "Kristin Hannah",
+      "Rating": "5/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598993363l/21853621._SY475_.jpg"
+    },
+    {
+      "Name": "All the Light We Cannot See",
+      "Author": "Anthony Doerr",
+      "Rating": "3/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451445646l/18143977.jpg"
+    },
+    {
+      "Name": "The Book Thief",
+      "Author": "Markus Zusak",
+      "Rating": "5/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY475_.jpg"
+    }
+  ],
+  "dystopian": [
+    {
+      "Name": "Scythe : Part One of Three",
+      "Author": "Neal Shusterman",
+      "Rating": "5/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456172676l/28954189.jpg"
+    },
+    {
+      "Name": "Thunderhead : Part Two of Three",
+      "Author": "Neal Shusterman",
+      "Rating": "5/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505658534l/33555224._SY475_.jpg"
+    },
+    {
+      "Name": "The Hunger Games",
+      "Author": "Suzanne Collins",
+      "Rating": "5/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661028103l/2767052._SY475_.jpg"
+    },
+    {
+      "Name": "1984(Nineteen Eighty-Four)",
+      "Author": "George Orwell",
+      "Rating": "4/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256l/61439040._SX318_.jpg"
+    },
+    {
+      "Name": "Animal Farm : A Fairy Story",
+      "Author": "George Orwell",
+      "Rating": "4/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325861570l/170448.jpg"
+    }
+  ],
+  "non-fiction": [
+    {
+      "Name": "Wings of Fire(An Autobiography)",
+      "Author": "A.P.J. Abdul Kalam",
+      "Rating": "4/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588286863l/634583._SY475_.jpg"
+    },
+    {
+      "Name": "Do Epic Shit(Self Discovery)",
+      "Author": "Ankur Warikoo",
+      "Rating": "5/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639169039l/59795331._SY475_.jpg"
+    },
+    {
+      "Name": "The Diary of a Young Girl",
+      "Author": "Anne Frank",
+      "Rating": "4/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560816565l/48855.jpg"
+    },
+    {
+      "Name": "The Psychology of Money",
+      "Author": "Morgan Housel",
+      "Rating": "4/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581527774l/41881472._SY475_.jpg"
+    },
+    {
+      "Name": "Atomic Habits : Tiny Changes, Remarkable Results",
+      "Author": "James Clear",
+      "Rating": "3.5/5",
+      "photoURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg"
+    }
+  ]
+}
